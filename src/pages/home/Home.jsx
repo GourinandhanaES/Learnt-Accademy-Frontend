@@ -12,8 +12,8 @@ const Home = () => {
   return (
     <div>
     <div className="container text-center mt-5">
-      <h1 className='heading'>Discover Why Learners <span className='head'>Choose LearnIt</span> for Unmatched Success</h1>
-      <p>Join a thriving community of over 10,000 learners who trust LearnIt to elevate their skills and achieve their goals. Take a personalized tour of our cutting-edge learning platform and see how our expert-crafted solutions can empower your journey to excellence.</p>
+      <h1 className='heading'>Discover Why Learners <span className='head'>Choose Learnt</span> for Unmatched Success</h1>
+      <p>Join a thriving community of over 10,000 learners who trust Learnt Accademy to elevate their skills and achieve their goals. Take a personalized tour of our cutting-edge learning platform and see how our expert-crafted solutions can empower your journey to excellence.</p>
       <button 
         style={{backgroundColor:'#0a7d81', color:'white'}}
         className="btn mt-3" 

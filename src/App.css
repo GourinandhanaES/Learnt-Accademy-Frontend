@@ -567,13 +567,18 @@ header {
 }
 
 .users {
-  width: 350px;
+  width: auto;
   overflow-x: auto;
   white-space: nowrap;
   margin: 20px auto;
   min-height: 80vh;
   border: solid gray 1px;
+
+  @media (max-width: 768px) {
+    width: 350px;
+  }
 }
+
 
 .sidebar {
   width: 200px;

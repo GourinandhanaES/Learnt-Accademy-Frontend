@@ -6,7 +6,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 import { UserContextProvider } from "./context/UserContext.jsx";
 import { CourseContextProvider } from "./context/CourseContext.jsx";
 
-export const server = "https://learnt-accademy-server.onrender.com";
+export const server = " http://localhost:3000";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
