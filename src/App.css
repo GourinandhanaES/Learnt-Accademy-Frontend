@@ -639,8 +639,14 @@ header {
   align-items: start;
   padding: 0;
   margin-top: 3rem; 
+  margin-bottom: 3rem;
 }
 
+.auth-form{
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px 10px rgba(0, 0, 0, 0.1);
+  width: 400px;
+}
 
 .auth-card {
   display: flex;
